@@ -1,0 +1,9 @@
+OX_9668051706({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"http://ox-d.tmn.servedbyopenx.com/{medium}/1.0/{rtype}?ef=db&ts={txn_state}",
+    "pixels":"http://us-u.openx.net/w/1.0/pd?plm=3&ph=25af9286-f23b-4b02-abcd-f2ee3b564dab",
+    "adunits" : [
+    ]
+  }
+});
